@@ -40,24 +40,7 @@ A full-stack intelligent assistant for job recommendation, resume optimization, 
 
 ## 🤝 Let’s Connect
 
-I'm always eager to collaborate on data-driven projects and cutting-edge research.  
-📫 [amruthaperumalla@example.com]  
-🌐 [LinkedIn](https://www.linkedin.com/in/amrutha-perumalla)
-
----
-
-
----
-
-## 🚀 About Me
-- 🔭 **Currently Studying**: Master's in Computer Science  
-- 🌱 **Learning**: Diving deeper into **Power BI** to enhance my data visualization and reporting skills  
-- 👯 **Open to Collaborate**: Looking forward to working with **Data Science Professionals** on exciting projects  
-- 💬 **Ask Me About**:  
-  - Programming: **Python**, **HTML**, **CSS**  
-  - Cloud & Databases: **Azure**, **SQL**  
-  - Data Analysis & Visualization  
-
+I'm always eager to collaborate on data-driven projects and cutting-edge research.   
 - 📫 **Reach Out**:  
   [📧 Email](mailto:pamrutha.ao@gmail.com)  
   [🔗 LinkedIn](https://www.linkedin.com/in/amrutha-perumalla-1b4276218)
