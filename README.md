@@ -1,6 +1,51 @@
-# 👋 Hello! Welcome to My GitHub Profile  
+# 👋 Hi there, I'm Amrutha Perumalla
 
-I am a passionate **Data Analyst** with a strong foundation in **Computer Science** and a love for leveraging data to drive insights. Currently pursuing my **Master's in Computer Science**, I enjoy learning new tools, collaborating with like-minded professionals, and continuously growing in my field.
+I'm a passionate **Data Engineer** enthusiastic about building scalable data platforms and intelligent AI-powered systems. With expertise in **Azure cloud services**, **Python**, **SQL**, and **Apache Spark**, I focus on creating data workflows that convert raw information into actionable insights.
+
+---
+
+## 🚀 What I Do
+
+🔹 Design and develop **ETL pipelines** for structured and unstructured data  
+🔹 Work with **big data frameworks** (Spark) and **cloud platforms** (Azure)  
+🔹 Implement **semantic search and AI-driven recommendations** using **FAISS**, **Transformers (BERT, GPT, LoRA)**  
+🔹 Leverage **NER**, **SentenceTransformers**, and **LoRA-tuned models** for NLP applications  
+🔹 Build **interactive dashboards and APIs** using **Streamlit** and **Flask**  
+🔹 Focus on **model explainability**, including attention visualizations, PCA/KMeans clustering, and cosine similarity heatmaps  
+
+---
+
+## 🧠 Highlight Project
+
+### 📌 AI-Powered Job Search Assistant  
+A full-stack intelligent assistant for job recommendation, resume optimization, and interview prep:  
+- Achieved **89% job matching accuracy** and **85% F1-score** for resume parsing  
+- Integrated **FAISS vector search** and **transformer-based NLP models**  
+- Deployed via **Flask API** and visualized with **Streamlit**
+
+🛠️ Tech Stack: Python · SQL · Spark · Azure · FAISS · Transformers · Flask · Streamlit
+
+---
+
+## 🛠️ Key Skills
+
+- **Cloud**: Azure Data Factory, Blob Storage, Data Lake  
+- **Programming**: Python, SQL  
+- **Big Data**: Apache Spark, PySpark  
+- **ML & NLP**: Transformers (Hugging Face), FAISS, NER  
+- **Deployment**: Flask, Streamlit, Azure  
+- **Visualization**: Explainability tools, clustering, similarity heatmaps  
+
+---
+
+## 🤝 Let’s Connect
+
+I'm always eager to collaborate on data-driven projects and cutting-edge research.  
+📫 [amruthaperumalla@example.com]  
+🌐 [LinkedIn](https://www.linkedin.com/in/amrutha-perumalla)
+
+---
+
 
 ---
 
